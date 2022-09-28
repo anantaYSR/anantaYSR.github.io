@@ -66,12 +66,10 @@
   margin-top: 50px;
   color: #e7e3e3;
   text-shadow: 0px 2px 0px black;
-
 }
 
 .gif {
-  padding: 3% 13% 0%;
-  
+  padding: 3% 13% 0%; 
 }
 
 .ananta {
@@ -110,10 +108,12 @@
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
 }
+
 .btn:hover, .btn:focus {
   color: #fff;
   outline: 0;
 }
+
 .fourth {
   border-color: #ffffff;
   color: #fff;
@@ -122,31 +122,7 @@
   background-size: 400%;
   transition: background 300ms ease-in-out;
 }
+
 .fourth:hover {
   background-position: 0;
-}
-
-
-#btn1 {
-  text-transform: uppercase;
-  background: linear-gradient(to bottom, #ffffff 3%, #232323 100%);
-  border-radius: 30px;
-  cursor: pointer;
-  font-size: 17px;
-  font-weight: 700;
-  padding: 12px 20px;
-  margin: 3%;
-  text-shadow: 0px 1px 0px #000000;
-}
-
-#btn2 {
-  text-transform: uppercase;
-  background: linear-gradient(to bottom, #ffffff 3%, #013e6c 90%);
-  border-radius: 30px;
-  cursor: pointer;
-  font-size: 17px;
-  font-weight: 700;
-  padding: 12px 20px;
-  margin: -2%;
-  text-shadow: 0px 1px 0px #000000;
 }
