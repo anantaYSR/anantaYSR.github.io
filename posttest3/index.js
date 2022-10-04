@@ -7,7 +7,7 @@ $(document).ready(function() {
         // * CHANGE TO DARK
         $('html').css({'filter': 'invert(1)'})
         $('html').attr('data-theme', 'dark');
-        darkmodeToggle.innerHTML = 'Dark Mode'
+        darkmodeToggle.innerHTML = 'negative Mode'
         
       } else {
         // * CHANGE TO LIGHT
