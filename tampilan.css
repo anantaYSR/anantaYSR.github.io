@@ -126,3 +126,47 @@
 .fourth:hover {
   background-position: 0;
 }
+
+.darkmd{
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  left: 1000px;
+  box-sizing: border-box;
+  background-color: transparent;
+  border: 2px solid #e74c3c;
+  border-radius: 0.6em;
+  color: #e74c3c;
+  cursor: pointer;
+  align-self: center;
+  font-size: 1rem;
+  line-height: 1;
+  padding: 12px 20px;
+  text-decoration: none;
+  text-align: right;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.darkmd2{
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  left: 900px;
+  box-sizing: border-box;
+  background-color: transparent;
+  border: 2px solid #e74c3c;
+  border-radius: 0.6em;
+  color: #e74c3c;
+  cursor: pointer;
+  align-self: center;
+  font-size: 1rem;
+  line-height: 1;
+  padding: 12px 20px;
+  text-decoration: none;
+  text-align: right;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
